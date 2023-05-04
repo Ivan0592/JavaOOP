@@ -1,0 +1,5 @@
+Input Numbers{x=15.0, y=37.0} Result Numbers{x=15.0, y=37.0}
+Input Numbers{x=15.0, y=37.0} Result Numbers{x=-22.0, y=0.0}
+Input Numbers{x=15.0, y=37.0} Result Numbers{x=555.0, y=0.0}
+Input Numbers{x=15.0, y=37.0} Result Numbers{x=555.0, y=0.0}
+Input Numbers{x=15.0, y=37.0} Result Numbers{x=15.0, y=37.0}
